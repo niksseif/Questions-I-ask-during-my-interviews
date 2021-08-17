@@ -2,7 +2,6 @@
 
 ---
 title: Interview questions
-tags: Software engineering role interview questions
 ---
 ## Goals and Objectives
 - This repo is a collection of interview questions that help identify your future company. These are the questions I've collected during my interviews with different companies. Remember they are interviewing you, and you are interviewing them.
@@ -11,7 +10,6 @@ tags: Software engineering role interview questions
 
 ## Company culture
 - How are your teams structured?
-- What is the management structure like?
 - How many women work in this team?
 - What's your process to ensure you have diversity in other ways?
 - How does internal communication work in your company? 
