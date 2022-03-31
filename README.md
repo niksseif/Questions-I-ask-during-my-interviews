@@ -44,6 +44,8 @@ title: Interview questions
 - Who is responsible for deployment? How often do you deploy?
 - Can I see some code from the team you are interviewing?  Ask for open source projects.
 - How often do teammates pair in this team?
+- what your schedule would look like?
+- What's the typical day, week, and weekend like in the life of an engineer here?
 
 ---
 
