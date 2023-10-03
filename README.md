@@ -1,7 +1,7 @@
 # Questions-I-ask-during-my-interviews
 
 ---
-title: Interview questions
+Interview questions
 ---
 ## Goals and Objectives
 - This repo is a collection of interview questions that help identify your future company. These are the questions I've collected during my interviews with different companies. Remember they are interviewing you, and you are interviewing them.
